@@ -2,6 +2,7 @@
 #Sistema Bancário para o curso Python Developer Dio.me
 
 #Criar um menu interativo
+
 import time
 nome_completo = input("Digite seu nome completo: ").split(" ")
 pri_nome = nome_completo[0]
